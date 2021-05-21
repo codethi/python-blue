@@ -5,6 +5,8 @@
 #Algumas funções que já vimos por aqui:
 
 #ALTERAÇÕES QUE O THIAGO PEDIU
+
+#nova alteração
 """ 
 print()
 input()
