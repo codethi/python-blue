@@ -4,6 +4,7 @@
 
 #Algumas funções que já vimos por aqui:
 
+#ALTERAÇÕES QUE O THIAGO PEDIU
 """ 
 print()
 input()
