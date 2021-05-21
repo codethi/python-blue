@@ -1,5 +1,7 @@
 # Funções são rotinas no meu programa.
 
+# Comentário a mais
+
 #Rotinas são ações repetitivas, que posso sintetizar em uma função, para fazer repetidas vezes, sem ter que criar as mesmas linhas de código.
 
 #Algumas funções que já vimos por aqui:
