@@ -2,6 +2,8 @@
 
 # Ao invés de serem representadas com (), são representadas com []
 
+
+#nova alteração
 lista = [1,2,3,4]
 print(lista)
 
