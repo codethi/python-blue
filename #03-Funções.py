@@ -11,7 +11,7 @@ len()
 int()
 float() 
 """
-
+# Alterações para dar ruim com o Vini
 # Mas as vezes essas funções nativas não nos satisfazem...
 
 def titulo():
